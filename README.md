@@ -18,5 +18,5 @@ Data Collection ----> Dataset Balancing ---> Sampling ----> Model Training on Al
 # 4. Results
 <img width="944" height="196" alt="image" src="https://github.com/user-attachments/assets/5bf5bcc0-aec9-4388-8ad8-e064145c98a7" />
 
-<img width="1183" height="190" alt="image" src="https://github.com/user-attachments/assets/7aadf1ee-1caa-451e-aa9e-d395735b6cd9" />
+<img width="944" height="190" alt="image" src="https://github.com/user-attachments/assets/7aadf1ee-1caa-451e-aa9e-d395735b6cd9" />
 
