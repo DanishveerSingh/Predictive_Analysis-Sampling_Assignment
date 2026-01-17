@@ -15,7 +15,7 @@ Data Collection ----> Dataset Balancing ---> Sampling ----> Model Training on Al
 - Train multiple machine learning models
 - Compare model performance using accuracy
   
-# 4. Result
+# 4. Results
 <img width="944" height="196" alt="image" src="https://github.com/user-attachments/assets/5bf5bcc0-aec9-4388-8ad8-e064145c98a7" />
 
 <img width="435" height="166" alt="image" src="https://github.com/user-attachments/assets/46a7e711-dca9-42cc-9808-026891f5743b" />
