@@ -1,7 +1,7 @@
 # Title: Credit Card Fraud Detection
 
 # 1. Methodology
-Data Collection ----> Dataset Balancing ---> Sampling ----> Model Training on All Samples ----> Model Testing ----> Result Analysis
+Data Collection ----> Dataset Balancing ----> Sampling ----> Model Training on All Samples ----> Model Testing ----> Result Analysis
 
 # 2. Description
 - Dataset: CreditCard_data.csv
